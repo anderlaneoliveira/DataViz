@@ -1,0 +1,41 @@
+---
+title: "ANÁLISE EXPLORATÓRIA COM LINGUAGEM R"
+output: html_notebook
+---
+
+### ANÁLISE EXPLORATÓRIA COM LINGUAGEM R
+
+## REVISÃO CAPS 01 AO 10
+
+# Criando massa de dados numéricos
+
+```{r A}
+l1 = seq(0, 50)
+l2 = 2.5 * l1 + 10
+
+l1
+l2
+
+dados = l2
+```
+
+# Dados Estatisticos
+```{r B}
+mean(dados)
+sd(dados)
+median(dados)
+quantile(dados)
+```
+
+# Análise gráfica
+```{r C}
+x = dados + as.integer(89, 102, 67, 45)
+
+mean(x)
+sd(x)
+
+hist(x, prob=TRUE)
+curve(dnorm(x, 114, 14.86), add=TRUE, col="red", lwd=2)
+```
+
+
