@@ -15,4 +15,4 @@ Criar uma seleção de layouts de dashboards prototipados em Power BI para monit
 
 # Status
 
-:construction:  Projeto em atualização  :construction:
+:construction:  Projeto em construção  :construction:
