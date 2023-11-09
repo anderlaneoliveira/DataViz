@@ -9,5 +9,5 @@ Criar uma seleção de layouts de dashboardos prototipados em Power BI para moni
 
 # :open_file_folder: Ferramentas Utilizadas
 
-- Linguagem Html
+- Linguagem HTML e CSS
 - Power BI
