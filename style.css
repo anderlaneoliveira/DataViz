@@ -1,0 +1,17 @@
+body {
+	background-color: gainsboro;
+}
+#sobre {
+	background: seashell;
+}
+#views {
+	text-align: center;
+}
+h3 {
+	font-style: italic;
+	font-weight: normal;
+}
+h4 {
+	font-style: normal;
+	font-weight: normal;
+}
